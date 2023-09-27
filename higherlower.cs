@@ -31,7 +31,7 @@ namespace higherLower
                 }
                 else
                 {
-                    Console.WriteLine($"Nem erre a számra gondoltam {proba - 1} próbálkozásod maradt");
+                    Console.WriteLine($"Nem erre a számra gondoltam, {proba - 1} próbálkozásod maradt");
                     choice++;
                 }
             }
